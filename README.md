@@ -1,16 +1,73 @@
 ## AI Tools & Prompts
-
-- [ ] [art.md](https://github.com/araguaci/AI-tools-and-prompts/blob/main/art.md "art.md")
-
-- [ ] [audio.md](https://github.com/araguaci/AI-tools-and-prompts/blob/main/audio.md "audio.md")
-
-- [ ] [avatar.md](https://github.com/araguaci/AI-tools-and-prompts/blob/main/avatar.md "avatar.md")
-
-- [ ] [image-generator.md](https://github.com/araguaci/AI-tools-and-prompts/blob/main/image-generator.md "image-generator.md")
-
-- [ ] [logo-generator.md](https://github.com/araguaci/AI-tools-and-prompts/blob/main/logo-generator.md "logo-generator.md")
-
-- [ ] [music.md](https://github.com/araguaci/AI-tools-and-prompts/blob/main/music.md "music.md")
-
-- [ ] [startup-tools.md](https://github.com/araguaci/AI-tools-and-prompts/blob/main/startup-tools.md "startup-tools.md")
-
+- [ ] AI Tools
+- [X] [Art](https://github.com/araguaci/AI-tools-and-prompts/blob/main/art.md "art.md")
+- [X] [Audio](https://github.com/araguaci/AI-tools-and-prompts/blob/main/audio.md "audio.md")
+- [ ] Automation
+- [X] [Avatar](https://github.com/araguaci/AI-tools-and-prompts/blob/main/avatar.md "avatar.md")
+- [ ] Build AI
+- [ ] Career
+- [ ] ChatBots
+- [ ] Code Assistant
+- [ ] Content Creation
+- [ ] Copywriting
+- [ ] Data Analyst
+- [ ] Design
+- [ ] Developer Tools
+- [ ] Ecommerce
+- [ ] Educational
+- [ ] Email Assistant
+- [ ] Experiments
+- [ ] Fashion
+- [ ] Finance
+- [ ] Fun Tools
+- [ ] Gaming
+- [ ] Gift Ideas
+- [ ] Healthcare
+- [ ] Image Editing
+- [X] [Image Generator](https://github.com/araguaci/AI-tools-and-prompts/blob/main/image-generator.md "image-generator.md")
+- [ ] Legal Assistant
+- [ ] Life Assistant
+- [X] [Logo Generator.md](https://github.com/araguaci/AI-tools-and-prompts/blob/main/logo-generator.md "logo-generator.md")
+- [ ] Marketing
+- [X] [Music](https://github.com/araguaci/AI-tools-and-prompts/blob/main/music.md "music.md")
+- [ ] Open-Source
+- [ ] Presentations
+- [ ] Productivity
+- [ ] Prompt Tool
+- [ ] Real Estate
+- [ ] Research
+- [ ] Resources
+- [ ] Search Engine
+- [ ] SEO
+- [ ] Social Media Assistant
+- [ ] Spreadsheets
+- [X] [Startup Tools](https://github.com/araguaci/AI-tools-and-prompts/blob/main/startup-tools.md "startup-tools.md")
+- [ ] Storytelling
+- [ ] Summarizer
+- [ ] Text-to-speech
+- [ ] Travel
+- [ ] Video Editing
+- [ ] Video Generator
+- [ ] Writing ChatGPT Plugins News Prompt
+- [ ] Assistant Prompt
+- [ ] Business Prompt
+- [ ] Career Prompt
+- [ ] Coding Prompt
+- [ ] Content Creation Prompt
+- [ ] Cooking Prompt
+- [ ] Copywriting Prompt
+- [ ] Design Prompt
+- [ ] Education Prompt
+- [ ] Email Prompt
+- [ ] Fun Prompts
+- [ ] Health Prompt
+- [ ] Idea Prompt
+- [ ] Marketing Prompt
+- [ ] Productivity Prompt
+- [ ] Relationship Prompt
+- [ ] Screenwriter Prompt
+- [ ] SEO Prompt
+- [ ] Storytelling Prompt
+- [ ] Travel Prompt
+- [ ] Visual Prompt
+- [ ] Writing Prompt
