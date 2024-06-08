@@ -6,6 +6,7 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 ## Table of Contents
 - [Awesome AI](#awesome-ai)
   - [Table of Contents](#table-of-contents)
+  - [Top 10 Tools](#top-10-tools)
   - [AI API](#ai-api)
   - [AI Cloud](#ai-cloud)
   - [LLMs Backend](#llms-backend)
@@ -21,6 +22,34 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
   - [AI Course](#ai-course)
   - [Audio Gen](#audio-gen)
   - [Community](#community)
+
+## Top 10 Tools
+
+ - [Tome](https://tome.app/)
+ - Zapier
+ - GravityWrite
+ - AudioBox by meta
+ - Akool
+ - ElevenLabs
+ - GoEnhance
+ - Pictory
+ - Nvidia Broadcast
+ - Taplio
+
+✅What is the best AI tool?
+The best AI tools in 2024 are OpenAI's GPT-4 for its exceptional natural language processing and Google's Gemini 1.5 Pro for its cutting-edge performance across AI applications, both leading the field in innovation and capabilities.
+
+✅What is the most powerful AI tool in 2024?
+In 2024, the most powerful AI tools are OpenAI's GPT-4 and Google's Gemini 1.5 Pro. GPT-4 excels in advanced natural language processing, generating human-like text and understanding complex context. Gemini 1.5 Pro is known for its cutting-edge performance in AI applications, pushing the boundaries of AI technology.
+
+✅What is best free AI?
+The best free AI as of 2024 is OpenAI's ChatGPT. With recent enhancements, it excels in natural language processing, making it the top choice for conversational AI. Its free version addresses major limitations and offers impressive capabilities for tasks such as dialogue generation and text completion. ChatGPT stands out for its versatility and accessibility.
+
+✅Who owns ChatGPT?
+ChatGPT is owned by OpenAI, an organization with a complex structure. Originally founded as a nonprofit, OpenAI found this model unsustainable for funding its research. In 2019, it established OpenAI LP, a "capped-profit" company designed to be a hybrid between a for-profit and nonprofit entity.
+
+✅Is ChatGPT the best AI?
+As of May 2024, OpenAI has significantly enhanced the free version of ChatGPT, addressing its major limitations and surpassing other 
 
 ## AI API
 | Icon | Name | Description | Repos |
