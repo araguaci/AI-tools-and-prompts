@@ -26,15 +26,15 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 ## Top 10 Tools
 
  - [Tome](https://tome.app/)
- - Zapier
- - GravityWrite
- - AudioBox by meta
- - Akool
- - ElevenLabs
- - GoEnhance
- - Pictory
- - Nvidia Broadcast
- - Taplio
+ - [Zapier](https://zapier.com/)
+ - [GravityWrite](https://gravitywrite.com/)
+ - [AudioBox by meta](https://audiobox.metademolab.com/)
+ - [Akool](https://akool.com/)
+ - [ElevenLabs](https://elevenlabs.io/)
+ - [GoEnhance](https://app.goenhance.ai/app/en/gallery)
+ - [Pictory](https://pictory.ai/)
+ - [Nvidia Broadcast](https://www.nvidia.com/pt-br/geforce/broadcasting/broadcast-app/)
+ - [Taplio](https://taplio.com/)
 
 ✅What is the best AI tool?
 The best AI tools in 2024 are OpenAI's GPT-4 for its exceptional natural language processing and Google's Gemini 1.5 Pro for its cutting-edge performance across AI applications, both leading the field in innovation and capabilities.
@@ -49,7 +49,8 @@ The best free AI as of 2024 is OpenAI's ChatGPT. With recent enhancements, it ex
 ChatGPT is owned by OpenAI, an organization with a complex structure. Originally founded as a nonprofit, OpenAI found this model unsustainable for funding its research. In 2019, it established OpenAI LP, a "capped-profit" company designed to be a hybrid between a for-profit and nonprofit entity.
 
 ✅Is ChatGPT the best AI?
-As of May 2024, OpenAI has significantly enhanced the free version of ChatGPT, addressing its major limitations and surpassing other 
+As of May 2024, OpenAI has significantly enhanced the free version of ChatGPT, addressing its major limitations and surpassing other AI chatbots on the market. Consequently, ChatGPT has risen to the top, making it the best AI chatbot available today.
+
 
 ## AI API
 | Icon | Name | Description | Repos |
